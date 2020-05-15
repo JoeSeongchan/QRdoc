@@ -1,4 +1,4 @@
-![logo](C:\Users\조성찬\Desktop\logo.png)
+
 
 # QRdoc
 
@@ -28,7 +28,7 @@
 
 ▷사용 예시:			전 -> 후
 
-![image-20200516020645421](C:\Users\조성찬\AppData\Roaming\Typora\typora-user-images\image-20200516020645421.png)![image-20200516020722710](C:\Users\조성찬\AppData\Roaming\Typora\typora-user-images\image-20200516020722710.png)![image-20200516020701643](C:\Users\조성찬\AppData\Roaming\Typora\typora-user-images\image-20200516020701643.png)
+
 
 
 
@@ -50,7 +50,7 @@
 
 2. **favicon**을 QR-code의 배경으로 하는 **Visual QR-code**를 만든다. 
 
-   ex) https://github.com/rakib434/pdf  => ![image-20200516022720607](C:\Users\조성찬\AppData\Roaming\Typora\typora-user-images\image-20200516022720607.png)
+   ex) https://github.com/rakib434/pdf  => 
 
    *// 파비콘(영어: favicon, 'favorites + icon') 또는 패비콘이란 인터넷 웹 브라우저의 주소창에 표시되는 웹사이트나 웹페이지를 대표하는 아이콘이다.* 
 
@@ -82,5 +82,5 @@ QR-code is licensed under the Apache License, Version 2.0. See [LICENSE](https:/
 
 ## 개발 계획
 
-![image-20200516025303139](C:\Users\조성찬\AppData\Roaming\Typora\typora-user-images\image-20200516025303139.png)
+
 
