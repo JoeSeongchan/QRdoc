@@ -4,7 +4,7 @@
 
 ![QRdoc_logo](./README_image/QRdoc_logo.png)
 
-#### 	편하게, 빠르게, 깔끔하게 QR-code를 문서에 넣어주는 프로그램.** 
+#### 	빠르고, 편하게, 깔끔하게 QR-code를 문서에 넣어주는 프로그램.** 
 
 1. QRdoc을 사용하면, 문서 안 모든 링크를 일일이 QR-code로 변환하지 않아도 됩니다.  
 
@@ -14,7 +14,7 @@
 
      **QR-code로 손쉽게 해당 사이트에 접속할 수 있습니다.** 
 
- 2.  QRdoc을 사용하면, 여러 pdf 문서를 한 번에 관리할 수 있습니다. 
+ 3. QRdoc을 사용하면, 여러 pdf 문서를 한 번에 관리할 수 있습니다. 
 
     **클릭 한 번으로  여러 pdf 파일 안에 QR-code를 첨부할 수 있습니다.**
 
@@ -22,17 +22,17 @@
 
 ## 프로젝트 소개
 
-▷팀 번호: 				9
+▷팀 번호:                 9
 
-▷팀 참가자:			김민주,  석제노, 유현욱, 조성찬
+▷팀 참가자:            김민주,  석제노, 유현욱, 조성찬
 
-▷프로그램 기능:	문서 안 링크 주소를 자동으로 QR-code로 변환해서 문서 안에 첨부한다.
+▷프로그램 기능:     문서 안 링크 주소를 자동으로 QR-code로 변환해서 문서 안에 첨부한다.
 
 
 
 ## 사용 예시:			
 
-전																				 -> 		후
+전                                                                             ->            후
 
 ![before](./README_image/before.png)![arrow](./README_image/arrow.png)![after](./README_image/after.png)
 
@@ -58,7 +58,7 @@
 
 2. **favicon**을 QR-code의 배경으로 하는 **Visual QR-code**를 만든다. 
 
-   ex) https://github.com/rakib434/pdf 		 =>		 ![Visual_QR](./README_image/Visual_QR.png)
+   ex) https://github.com/rakib434/pdf           =>          ![Visual_QR](./README_image/Visual_QR.png)
 
    *// 파비콘(영어: favicon, 'favorites + icon') 또는 패비콘이란 인터넷 웹 브라우저의 주소창에 표시되는 웹사이트나 웹페이지를 대표하는 아이콘이다.* 
 
@@ -76,7 +76,7 @@
 
 ## 활용 라이브러리
 
-1. [zxing](https://github.com/zxing/zxing), 
+1. [zxing](https://github.com/zxing/zxing)
 
 2. [pdfbox](https://github.com/apache/pdfbox)
 
@@ -84,7 +84,7 @@
 
 ## 라이선스
 
-QR-code is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/JoeSeongchan/QRdoc/blob/master/LICENSE) for full license text.
+QRdoc is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/JoeSeongchan/QRdoc/blob/master/LICENSE) for full license text.
 
 
 
