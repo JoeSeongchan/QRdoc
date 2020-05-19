@@ -2,7 +2,7 @@
 
 # QRdoc
 
-![QRdoc_logo](./README_image/QRdoc_logo.png)
+![QRdoc_logo](./readme_image/QRdoc_logo.png)
 
 #### 	빠르고, 편하게, 깔끔하게 QR-code를 문서에 넣어주는 프로그램.** 
 
@@ -34,7 +34,7 @@
 
 전                                                                             ->            후
 
-![before](./README_image/before.png)![arrow](./README_image/arrow.png)![after](./README_image/after.png)
+![before](./readme_image/before.png)![arrow](./readme_image/arrow.png)![after](./readme_image/after.png)
 
 
 
@@ -58,7 +58,7 @@
 
 2. **favicon**을 QR-code의 배경으로 하는 **Visual QR-code**를 만든다. 
 
-   ex) https://github.com/rakib434/pdf           =>          ![Visual_QR](./README_image/Visual_QR.png)
+   ex) https://github.com/rakib434/pdf           =>          ![Visual_QR](./readme_image/Visual_QR.png)
 
    *// 파비콘(영어: favicon, 'favorites + icon') 또는 패비콘이란 인터넷 웹 브라우저의 주소창에 표시되는 웹사이트나 웹페이지를 대표하는 아이콘이다.* 
 
@@ -90,5 +90,5 @@ QRdoc is licensed under the Apache License, Version 2.0. See [LICENSE](https://g
 
 ## 개발 계획
 
-![plan](./README_image/plan.png)
+![plan](./readme_image/plan.png)
 
